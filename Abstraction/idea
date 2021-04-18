@@ -1,0 +1,8 @@
+Data abstraction is the process of hiding certain details and showing only essential information to the user.
+
+Abstraction can be achieved with either abstract classes or interfaces
+
+Abstract class: is a restricted class that cannot be used to create objects (to access it, it must be inherited from another class).
+
+
+the idea of project is robot keeper and it is  responsible for feeding animle ;
