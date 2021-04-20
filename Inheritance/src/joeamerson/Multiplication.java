@@ -10,11 +10,11 @@ public class Multiplication implements CalculationRule {
         this.number1 = number1;
         this.number2 = number2;
     }
-
+    @Override
     public int getNumber() {
         return result;
     }
-
+    @Override
     public void setNumber() {
         result = number1 * number2;
     }

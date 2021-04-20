@@ -12,7 +12,6 @@ public class Calculation extends Subtraction {
         multiplication = new Multiplication(number1,number2);
         subtraction = new Subtraction(number1,number2);
     }
-
     public int getAddition() {
          addition.setNumber();
          return addition.getNumber();
